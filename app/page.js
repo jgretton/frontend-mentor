@@ -3,6 +3,7 @@ import Link from "next/link";
 const links = [
   { name: "Challenge 1 - Receipe page", href: "/challenges/1" },
   { name: "Challenge 2 - Social links profile", href: "/challenges/2" },
+  { name: "Challenge 3 - FAQ accordian", href: "/challenges/3" },
 ];
 
 export default function Home() {

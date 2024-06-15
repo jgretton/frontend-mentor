@@ -19,6 +19,11 @@ module.exports = {
 
         //Challenge 2
         Green: "hsl(75, 94%, 57%)",
+
+        //Challenge 3
+        "Light-pink": "hsl(275, 100%, 97%)",
+        "Grayish-purple": "hsl(292, 16%, 49%)",
+        "Dark-purple": "hsl(292, 42%, 14%)",
       },
     },
   },
