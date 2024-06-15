@@ -20,7 +20,7 @@ The challenge was to build out this recipe page and get it looking as close to t
 
 ### Screenshot
 
-![Completed screenshot of recipe page](./completed-screenshot.png)
+![Completed screenshot of recipe page](./complete-screenshot.png)
 
 ### Links
 
@@ -39,7 +39,7 @@ With this project I decided to really focus on using the correct semantic markup
 
 ### What I learned
 
-I found that taking a step back and focusing on using the correct semantic markup was a challenge. In previous projects I feel as though I just threw divs everywhere. Learning the correct use for each element was fun. My main takeaway was finding out that its okay to use <section> within an <article> element. Previously I thought <article> was only part of the <section>.
+I found that taking a step back and focusing on using the correct semantic markup was a challenge. In previous projects I feel as though I just threw divs everywhere. Learning the correct use for each element was fun. My main takeaway was finding out that its okay to use `<section>` within an `<article>` element.
 
 ## Author
 
