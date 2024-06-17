@@ -25,6 +25,13 @@ module.exports = {
         "Grayish-purple": "hsl(292, 16%, 49%)",
         "Dark-purple": "hsl(292, 42%, 14%)",
       },
+
+      backgroundImage: {
+        "3-challenge-mobile":
+          "url('/images/challenges/3/background-pattern-mobile.svg')",
+        "3-challenge-desktop":
+          "url('/images/challenges/3/background-pattern-desktop.svg')",
+      },
     },
   },
   plugins: [],
