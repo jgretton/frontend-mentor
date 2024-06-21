@@ -5,6 +5,10 @@ const links = [
   { name: "Challenge 2 - Social links profile", href: "/challenges/2" },
   { name: "Challenge 3 - FAQ accordian", href: "/challenges/3" },
   { name: "Challenge 4 - Results summary component", href: "/challenges/4" },
+  {
+    name: "Challenge 5 - Product preview card component",
+    href: "/challenges/5",
+  },
 ];
 
 export default function Home() {
